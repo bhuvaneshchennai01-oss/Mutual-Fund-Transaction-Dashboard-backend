@@ -8,7 +8,7 @@ A full-stack web application designed to summarize mutual fund transaction activ
 
 This project consists of:
 1. **Frontend**: A pure HTML/CSS/Vanilla JavaScript application with a simple, clean UI.
-2. **Backend**: A FastAPI Python backend connecting to a SQLite database.
+2. **Backend**: A FastAPI Python backend connecting to a PostgreSQL database.
 
 ---
 
@@ -71,10 +71,6 @@ The backend requires the following Python libraries (typically found in `Backend
    pip install fastapi uvicorn sqlalchemy
    # OR if a requirements.txt exists:
    pip install -r requirements.txt
-   ```
-5. If there is a script to import the initial mock data into your database (e.g., `import_csv.py`), run it:
-   ```bash
-   python import_csv.py
    ```
 
 ### Frontend Setup
@@ -181,4 +177,11 @@ The backend exposes the following four REST API endpoints to power the dashboard
   ```
 
 ---
-*Time Estimate for Implementation: ~2 hours.*
+*Time Estimate for Implementation: ~5 hours.*
+Task	Time
+Requirement Analysis & API Contract Design   ----	30 mins
+Backend API Development (4 endpoints)	       ---- 2 hrs
+Frontend Dashboard UI Development	           ---- 1.5 hrs
+API Integration & Filters                    ----	30 mins
+Testing & Bug Fixes                          ----	30 mins
+Total                                        
