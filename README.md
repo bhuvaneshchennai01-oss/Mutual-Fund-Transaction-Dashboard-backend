@@ -179,9 +179,9 @@ The backend exposes the following four REST API endpoints to power the dashboard
 ---
 *Time Estimate for Implementation: ~5 hours.*
 Task	Time
-Requirement Analysis & API Contract Design   ----	30 mins
-Backend API Development (4 endpoints)	       ---- 2 hrs
-Frontend Dashboard UI Development	           ---- 1.5 hrs
-API Integration & Filters                    ----	30 mins
-Testing & Bug Fixes                          ----	30 mins
-Total                                        
+Requirement Analysis & API Contract Design   ----	30 mins,
+Backend API Development (4 endpoints)	       ---- 2 hrs,
+Frontend Dashboard UI Development	           ---- 1.5 hrs,
+API Integration & Filters                    ----	30 mins,
+Testing & Bug Fixes                          ----	30 mins,
+Total                                        ---- 5 Hours.
