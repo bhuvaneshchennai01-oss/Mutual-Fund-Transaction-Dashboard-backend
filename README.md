@@ -1,8 +1,12 @@
 # Mutual Fund Transaction Dashboard
 
-**[Live Project Link](https://github.com/your-username/mutualfund_dashboard)**
+## Project Links
+1. Frontend = [https://github.com/bhuvaneshchennai01-oss/Mutual-Fund-Transaction-Dashboard-frontend.git] 
 
-![Dashboard Screenshot]-----[(https://drive.google.com/file/d/1ByPYpRv_Tq2iChquRH1ynUNQ7IuqsQXM/view?usp=sharing)]
+2. Backend = [https://github.com/bhuvaneshchennai01-oss/Mutual-Fund-Transaction-Dashboard-backend.git]
+
+
+![Dashboard Screenshot]-----[(https://drive.google.com/file/d/1nKhk3yZXNpWVSig3CJXqdLrOjOuOQxAm/view?usp=sharing)]
 
 A full-stack web application designed to summarize mutual fund transaction activity within a selected date range. 
 
